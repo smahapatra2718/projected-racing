@@ -1,0 +1,47 @@
+[
+  {
+    "id": "monza",
+    "name": "Monza",
+    "year": 2024,
+    "session": "Qualifying",
+    "sessionKey": 9586,
+    "driverNumber": 1,
+    "driver": "Max Verstappen",
+    "team": "Red Bull Racing",
+    "lapNumber": 11,
+    "lapDuration": 79.662,
+    "circuitLength": 5793,
+    "date": "2024-08-31T14:41:37.906000+00:00",
+    "notes": "Recorded OpenF1 position and car telemetry. Position interpolated at lap boundaries and telemetry aligned to position timestamps. Circuit ribbon reconstructed from this driver trace; road width and track limits are illustrative, not surveyed."
+  },
+  {
+    "id": "silverstone",
+    "name": "Silverstone",
+    "year": 2024,
+    "session": "Qualifying",
+    "sessionKey": 9554,
+    "driverNumber": 1,
+    "driver": "Max Verstappen",
+    "team": "Red Bull Racing",
+    "lapNumber": 23,
+    "lapDuration": 86.203,
+    "circuitLength": 5891,
+    "date": "2024-07-06T15:08:25.755000+00:00",
+    "notes": "Recorded OpenF1 position and car telemetry. Position interpolated at lap boundaries and telemetry aligned to position timestamps. Circuit ribbon reconstructed from this driver trace; road width and track limits are illustrative, not surveyed."
+  },
+  {
+    "id": "monaco",
+    "name": "Monaco",
+    "year": 2024,
+    "session": "Qualifying",
+    "sessionKey": 9519,
+    "driverNumber": 1,
+    "driver": "Max Verstappen",
+    "team": "Red Bull Racing",
+    "lapNumber": 24,
+    "lapDuration": 70.567,
+    "circuitLength": 3337,
+    "date": "2024-05-25T14:51:54.569000+00:00",
+    "notes": "Recorded OpenF1 position and car telemetry. Position interpolated at lap boundaries and telemetry aligned to position timestamps. Circuit ribbon reconstructed from this driver trace; road width and track limits are illustrative, not surveyed."
+  }
+]
